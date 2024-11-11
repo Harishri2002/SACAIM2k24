@@ -4,7 +4,7 @@ import "./committee.css";
 function Committee() {
   return (
     <div className="committee-page">
-      <h1 className="title">ORGANIZING COMMITTEE</h1>
+      <h3 className="title">ORGANIZING COMMITTEE</h3>
 
       <div className="columns">
         {/* Left Column */}
