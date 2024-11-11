@@ -12,7 +12,7 @@ function Committee() {
           <div className="committee-section">
             <h2 className="section-title">Chief Patron:</h2>
             <p>
-              Rev Dr Praveen Martis SJ,
+              <b>Rev Dr Praveen Martis SJ</b>,
               <br />
               Vice Chancellor,
               <br />
@@ -25,7 +25,7 @@ function Committee() {
           <div className="committee-section">
             <h2 className="section-title">Patron:</h2>
             <p>
-              Dr (Fr) Kiran Cotha SJ, Director,
+              <b>Dr (Fr) Kiran Cotha SJ, Director</b>,
               <br />
               St Aloysius (DEEMED TO BE UNIVERSITY)
               <br />
@@ -36,7 +36,7 @@ function Committee() {
           <div className="committee-section">
             <h2 className="section-title">General Chair:</h2>
             <p>
-              Dr Hemalatha N<br />
+              <b>Dr Hemalatha N</b> <br />
               Dean, SIST, AIMIT
             </p>
           </div>
@@ -44,12 +44,12 @@ function Committee() {
           <div className="committee-section">
             <h2 className="section-title">Convener:</h2>
             <p>
-              Dr Santosh B<br />
+              <b>Dr Santosh B</b><br />
               Associate Professor
               <br />
               SIST, AIMIT
               <br />
-              Dr Jeevan L J Pinto,
+              <b>Dr Jeevan L J Pinto</b>,
               <br />
               Associate Professor
               <br />
@@ -59,31 +59,31 @@ function Committee() {
           <div className="committee-section">
             <h2 className="section-title">Organizing Committee</h2>
             <p>
-              Dr Ruban S,
+              <b>Dr Ruban S</b>,
               <br />
               Associate Professor,
               <br />
               HOD (MSc ST), SIST, AIMIT
               <br />
-              Dr Rakesh Kumar,
+              <b>Dr Rakesh Kumar</b>,
               <br />
               Associate Professor,
               <br />
               HOD (MSc BDA & Data Science), SIST, AIMIT
               <br />
-              Dr Shine P Varkey,
+              <b>Dr Shine P Varkey</b>,
               <br />
               Assistant Professor,
               <br />
               HOD (MSc BI), SIST, AIMIT
               <br />
-              Dr Srinivas B.L,
+              <b>Dr Srinivas B.L</b>,
               <br />
               Associate Professor,
               <br />
               SIST, AIMIT
               <br />
-              Dr Roshan Suvaris,
+              <b>Dr Roshan Suvaris</b>,
               <br />
               Assistant Professor,
               <br />
@@ -99,7 +99,7 @@ function Committee() {
           <div className="committee-section">
             <h2 className="section-title">Advisory Committee</h2>
             <p>
-              Prof Amena Mahmoud,
+              <b>Prof Amena Mahmoud</b>,
               <br />
               Department of Computer Science,
               <br />
@@ -107,7 +107,7 @@ function Committee() {
               <br />
               KafrElshiekh University, Egypt
               <br />
-              Prof Eiko Takaoka,
+              <b>Prof Eiko Takaoka</b>,
               <br />
               Dept. of Info & Com Sciences,
               <br />
@@ -115,25 +115,25 @@ function Committee() {
               <br />
               Sophia University, Tokyo JAPAN
               <br />
-              Dr Ashish Gupta,
+              <b>Dr Ashish Gupta</b>,
               <br />
               Professor, BITS Pilani, Dubai
               <br />
-              Dr Manjaiah DH,
+              <b>Dr Manjaiah DH</b>,
               <br />
               Professor, Department of Computer Science
               <br />
               Mangalore University
               <br />
-              Abdul Rahaman Wahab Sait
+              <b>Abdul Rahaman Wahab Sait</b>
               <br />
               Professor , King Faisal University
               <br />
-              Dr. Yazid Alkhurayif
+              <b>Dr. Yazid Alkhurayif</b>
               <br />
               Shaqra University, Saudi Arabia
               <br />
-              Dr. Antony P J<br />
+              <b>Dr. Antony P J</b><br />
               Vice Principal, Professor and Head,
               <br />
               Department of Computer Science and Engineering,
@@ -142,7 +142,7 @@ function Committee() {
               <br />
               Mangalore
               <br />
-              Dr. Roshan Fernandes,
+              <b>Dr. Roshan Fernandes</b>,
               <br />
               Professor and Head, Department of Cyber Security,
               <br />
@@ -150,7 +150,7 @@ function Committee() {
               <br />
               Karkala
               <br />
-              Dr. Sharmila Kumari,
+              <b>Dr. Sharmila Kumari</b>,
               <br />
               Vice Principal, Professor and Head,
               <br />
@@ -158,13 +158,13 @@ function Committee() {
               <br />
               P A College of Engineering, Mangalore
               <br />
-              Dr. Mary Jacob,
+              <b>Dr. Mary Jacob</b>,
               <br />
               Professor, Department of Computer Science,
               <br />
               Kristu Jayanti College, Autonomous, Bengaluru.
               <br />
-              Dr. Margaret Mary. T,
+              <b>Dr. Margaret Mary. T</b>,
               <br />
               Professor,Department of Computer Science,
               <br />
@@ -172,18 +172,18 @@ function Committee() {
               <br />
               Kristu Jayanti College, Autonomous, Bengaluru
               <br />
-              Dr. Faustina Joan SP,
+              <b>Dr. Faustina Joan SP</b>,
               <br />
               Professor, Department of Computer Science ,<br />
               Stella Maris College (Autonomous), Chennai.
               <br />
-              Dr. S. Meera,
+              <b>Dr. S. Meera</b>,
               <br />
               Professor, Department of B.Sc CS(AI),
               <br />
               PSGR Krishnammal College for Women, Coimbatore
               <br />
-              Dr. Mithun DSouza ,<br />
+              <b>Dr. Mithun DSouza</b> ,<br />
               Professor, Department of Computer Science,
               <br />
               St Joseph's University, Bangalore

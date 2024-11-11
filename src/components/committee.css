@@ -10,7 +10,9 @@
     font-size: 2em;
     margin-bottom: 20px;
   }
-  
+  .cap{
+    font-weight: 500;
+  }
   /* Two-column layout */
   .columns {
     display: grid;

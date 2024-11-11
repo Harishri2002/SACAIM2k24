@@ -1,6 +1,6 @@
 /* About.css */
 .about-page {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 20px;
     font-family: Arial, sans-serif;
@@ -9,6 +9,9 @@
   
   .section {
     margin-bottom: 30px;
+    border: 1px solid rgb(159, 155, 155);
+    border-radius: 10px;
+    padding: 10px;
   }
   
   .section-title {

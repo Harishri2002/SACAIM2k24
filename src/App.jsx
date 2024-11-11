@@ -9,7 +9,7 @@ function App() {
       {/* Header section with a single image */}
       <header className="header">
         <img
-          src="https://via.placeholder.com/1200x400" // Replace with your desired image URL
+          src="/Aloy.png" // Replace with your desired image URL
           alt="Header"
           className="header-image"
         />
