@@ -1,0 +1,51 @@
+/* Basic styling */
+.committee-page {
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  /* Two-column layout */
+  .columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  
+  /* Each column and section styling */
+  .column {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .committee-section {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .section-title {
+    font-size: 1.25em;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Responsive design for smaller screens */
+  @media (max-width: 767px) {
+    .columns {
+      grid-template-columns: 1fr;
+    }
+  
+    .section-title {
+      font-size: 1.1em;
+    }
+  }
+  
