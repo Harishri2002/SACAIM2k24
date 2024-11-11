@@ -1,0 +1,197 @@
+/* About.css */
+.about-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .section {
+    margin-bottom: 30px;
+  }
+  
+  .section-title {
+    font-size: 1.5em;
+    color: #003366;
+    border-bottom: 2px solid #003366;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .section p {
+    font-size: 1em;
+    line-height: 1.6;
+    margin: 0;
+  }
+  
+  .registration-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .registration-table th,
+  .registration-table td {
+    border: 1px solid #000;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .registration-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    font-size: 1em;
+    line-height: 1.6;
+  }
+  
+  /* Responsive Styling */
+  @media (max-width: 768px) {
+    .about-page {
+      padding: 10px;
+    }
+  
+    .section-title {
+      font-size: 1.3em;
+      margin-bottom: 8px;
+    }
+  
+    .section p, ul {
+      font-size: 0.9em;
+    }
+  
+    .registration-table th,
+    .registration-table td {
+      padding: 8px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .section-title {
+      font-size: 1.2em;
+    }
+  
+    .section p, ul {
+      font-size: 0.85em;
+    }
+  
+    .registration-table th,
+    .registration-table td {
+      padding: 6px;
+      font-size: 0.85em;
+    }
+  
+    .registration-table {
+      font-size: 0.9em;
+    }
+  }
+  /*call for pappers*/
+  .call-for-papers-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .section {
+    margin-bottom: 30px;
+  }
+  
+  .section-title {
+    font-size: 1.5em;
+    color: #003366;
+    border-bottom: 2px solid #003366;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .section p {
+    font-size: 1em;
+    line-height: 1.6;
+  }
+  
+  .topics-grid {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .topics-grid ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    font-size: 1em;
+    line-height: 1.6;
+    width: 30%;
+  }
+  
+  .dates-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .dates-table td {
+    padding: 10px;
+    border: 1px solid #000;
+  }
+  
+  .contact-info {
+    text-align: center;
+    font-weight: bold;
+    color: #003366;
+  }
+  
+  /* Responsive Styling */
+  @media (max-width: 768px) {
+    .call-for-papers-page {
+      padding: 10px;
+    }
+  
+    .section-title {
+      font-size: 1.3em;
+    }
+  
+    .section p {
+      font-size: 0.95em;
+    }
+  
+    .topics-grid {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .topics-grid ul {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  
+    .dates-table td {
+      padding: 8px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .section-title {
+      font-size: 1.2em;
+    }
+  
+    .section p {
+      font-size: 0.9em;
+    }
+  
+    .topics-grid ul {
+      font-size: 0.9em;
+      padding-left: 15px;
+    }
+  
+    .dates-table td {
+      padding: 6px;
+      font-size: 0.85em;
+    }
+  }
