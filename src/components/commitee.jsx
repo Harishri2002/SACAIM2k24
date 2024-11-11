@@ -1,5 +1,5 @@
-import React from 'react';
-import './Committee.css';
+import React from "react";
+import "./Committee.css";
 
 function Committee() {
   return (
@@ -11,78 +11,183 @@ function Committee() {
         <div className="column">
           <div className="committee-section">
             <h2 className="section-title">Chief Patron:</h2>
-            <p>Rev Dr Praveen Martis SJ,<br />
-               Vice Chancellor,<br />
-               St Aloysius (DEEMED TO BE UNIVERSITY)<br />
-               Institute of Management and IT
+            <p>
+              Rev Dr Praveen Martis SJ,
+              <br />
+              Vice Chancellor,
+              <br />
+              St Aloysius (DEEMED TO BE UNIVERSITY)
+              <br />
+              Institute of Management and IT
             </p>
           </div>
 
           <div className="committee-section">
             <h2 className="section-title">Patron:</h2>
-            <p>Dr (Fr) Kiran Cotha SJ, Director,<br />
-               St Aloysius (DEEMED TO BE UNIVERSITY)<br />
-               Institute of Management and IT
+            <p>
+              Dr (Fr) Kiran Cotha SJ, Director,
+              <br />
+              St Aloysius (DEEMED TO BE UNIVERSITY)
+              <br />
+              Institute of Management and IT
             </p>
           </div>
 
           <div className="committee-section">
             <h2 className="section-title">General Chair:</h2>
-            <p>Dr Hemalatha N<br />
-               Dean, SIST, AIMIT
+            <p>
+              Dr Hemalatha N<br />
+              Dean, SIST, AIMIT
             </p>
           </div>
 
           <div className="committee-section">
             <h2 className="section-title">Convener:</h2>
-            <p>Dr Santosh B<br />
-               Associate Professor<br />
-               SIST, AIMIT<br />
-               Dr Jeevan L J Pinto,<br />
-               Associate Professor<br />
-               SIST, AIMIT
+            <p>
+              Dr Santosh B<br />
+              Associate Professor
+              <br />
+              SIST, AIMIT
+              <br />
+              Dr Jeevan L J Pinto,
+              <br />
+              Associate Professor
+              <br />
+              SIST, AIMIT
+            </p>
+          </div>
+          <div className="committee-section">
+            <h2 className="section-title">Organizing Committee</h2>
+            <p>
+              Dr Ruban S,
+              <br />
+              Associate Professor,
+              <br />
+              HOD (MSc ST), SIST, AIMIT
+              <br />
+              Dr Rakesh Kumar,
+              <br />
+              Associate Professor,
+              <br />
+              HOD (MSc BDA & Data Science), SIST, AIMIT
+              <br />
+              Dr Shine P Varkey,
+              <br />
+              Assistant Professor,
+              <br />
+              HOD (MSc BI), SIST, AIMIT
+              <br />
+              Dr Srinivas B.L,
+              <br />
+              Associate Professor,
+              <br />
+              SIST, AIMIT
+              <br />
+              Dr Roshan Suvaris,
+              <br />
+              Assistant Professor,
+              <br />
+              SIST, AIMIT
             </p>
           </div>
         </div>
 
         {/* Right Column */}
         <div className="column">
-          <div className="committee-section">
-            <h2 className="section-title">Organizing Committee</h2>
-            <p>Dr Ruban S,<br />
-               Associate Professor,<br />
-               HOD (MSc ST), SIST, AIMIT<br />
-               Dr Rakesh Kumar,<br />
-               Associate Professor,<br />
-               HOD (MSc BDA & Data Science), SIST, AIMIT<br />
-               Dr Shine P Varkey,<br />
-               Assistant Professor,<br />
-               HOD (MSc BI), SIST, AIMIT<br />
-               Dr Srinivas B.L,<br />
-               Associate Professor,<br />
-               SIST, AIMIT<br />
-               Dr Roshan Suvaris,<br />
-               Assistant Professor,<br />
-               SIST, AIMIT
-            </p>
-          </div>
+          
 
           <div className="committee-section">
             <h2 className="section-title">Advisory Committee</h2>
-            <p>Prof Amena Mahmoud,<br />
-               Department of Computer Science,<br />
-               Faculty of Computers and Information,<br />
-               KafrElshiekh University, Egypt<br />
-               Prof Eiko Takaoka,<br />
-               Dept. of Info & Com Sciences,<br />
-               Faculty of Science & Technology,<br />
-               Sophia University, Tokyo JAPAN<br />
-               Dr Ashish Gupta,<br />
-               Professor, BITS Pilani, Dubai<br />
-               Dr Manjaiah DH,<br />
-               Professor, Department of Computer Science<br />
-               Mangalore University<br />
-               ... [Continue listing each member as shown in your image]
+            <p>
+              Prof Amena Mahmoud,
+              <br />
+              Department of Computer Science,
+              <br />
+              Faculty of Computers and Information,
+              <br />
+              KafrElshiekh University, Egypt
+              <br />
+              Prof Eiko Takaoka,
+              <br />
+              Dept. of Info & Com Sciences,
+              <br />
+              Faculty of Science & Technology,
+              <br />
+              Sophia University, Tokyo JAPAN
+              <br />
+              Dr Ashish Gupta,
+              <br />
+              Professor, BITS Pilani, Dubai
+              <br />
+              Dr Manjaiah DH,
+              <br />
+              Professor, Department of Computer Science
+              <br />
+              Mangalore University
+              <br />
+              Abdul Rahaman Wahab Sait
+              <br />
+              Professor , King Faisal University
+              <br />
+              Dr. Yazid Alkhurayif
+              <br />
+              Shaqra University, Saudi Arabia
+              <br />
+              Dr. Antony P J<br />
+              Vice Principal, Professor and Head,
+              <br />
+              Department of Computer Science and Engineering,
+              <br />
+              A J Institute of Engineering and Technology,
+              <br />
+              Mangalore
+              <br />
+              Dr. Roshan Fernandes,
+              <br />
+              Professor and Head, Department of Cyber Security,
+              <br />
+              NMAMIT, Nitte Deemed to be university, Nitte,
+              <br />
+              Karkala
+              <br />
+              Dr. Sharmila Kumari,
+              <br />
+              Vice Principal, Professor and Head,
+              <br />
+              Department of Computer Science and Engineering,
+              <br />
+              P A College of Engineering, Mangalore
+              <br />
+              Dr. Mary Jacob,
+              <br />
+              Professor, Department of Computer Science,
+              <br />
+              Kristu Jayanti College, Autonomous, Bengaluru.
+              <br />
+              Dr. Margaret Mary. T,
+              <br />
+              Professor,Department of Computer Science,
+              <br />
+              Computer Science Department,
+              <br />
+              Kristu Jayanti College, Autonomous, Bengaluru
+              <br />
+              Dr. Faustina Joan SP,
+              <br />
+              Professor, Department of Computer Science ,<br />
+              Stella Maris College (Autonomous), Chennai.
+              <br />
+              Dr. S. Meera,
+              <br />
+              Professor, Department of B.Sc CS(AI),
+              <br />
+              PSGR Krishnammal College for Women, Coimbatore
+              <br />
+              Dr. Mithun DSouza ,<br />
+              Professor, Department of Computer Science,
+              <br />
+              St Joseph's University, Bangalore
+              <br />
             </p>
           </div>
         </div>
